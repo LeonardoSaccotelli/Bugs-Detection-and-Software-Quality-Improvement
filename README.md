@@ -23,3 +23,6 @@ The following tools were used for project management:
 * TortoiseSVN - systems for version control (or versioning)
 * SonarCloud - for the detection of bugs and the control of software quality improvement [(dashboard here)](https://sonarcloud.io/dashboard?id=2020-mmqs-main-java--org.sejda%3Asejda-parent)
 * Maven - for running the regression tests
+
+## License
+This project is released under the MIT License. See the [LICENSE](LICENSE) file for details.
